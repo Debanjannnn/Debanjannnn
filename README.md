@@ -19,8 +19,4 @@ For support, email debanjanmondalk2005@gmail.com
 
 [![Postman](https://img.shields.io/badge/Postman-Badge-FF6C37.svg)](https://badgr.com/public/assertions/zWlktIWVRdeRXF-Q-2kIsQ?identity__email=debanjanspider5@gmail.com)
 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-Badge_1-4285F4.svg)](https://www.cloudskillsboost.google/public_profiles/9ed815a9-9ba2-4532-999b-7155903b2065/badges/5184434?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
 
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-Badge_2-4285F4.svg)](https://www.cloudskillsboost.google/public_profiles/9ed815a9-9ba2-4532-999b-7155903b2065/badges/5180807?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
-
-[![Google Cloud Skills Boost](https://img.shields.io/badge/Google_Cloud_Skills_Boost-Badge_3-4285F4.svg)](https://www.cloudskillsboost.google/public_profiles/9ed815a9-9ba2-4532-999b-7155903b2065/badges/5186809?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share)
