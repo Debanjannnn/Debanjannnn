@@ -63,6 +63,11 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Debanjannnn&theme=dark&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=7F3FBF&currStreakNum=7F3FBF&sideNums=7F3FBF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Debanjannnn&theme=dark&background=0D1117&stroke=7F3FBF&ring=7F3FBF&fire=7F3FBF&currStreakNum=7F3FBF&sideNums=7F3FBF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
+  </a>
+</div>
+
 
 ![Debanjannnn's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debanjannnn&custom_title=Debanjannnn's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
