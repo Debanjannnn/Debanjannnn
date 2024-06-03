@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  <strong>Open Source Contributer | MERN Stack Developer</strong>
+  <strong>Open Source Contributor | MERN Stack Developer</strong>
 </p>
 
 <!-- Profile Image -->
@@ -69,5 +69,8 @@
   </a>
 </div>
 
-
-![Debanjannnn's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Debanjannnn&custom_title=Debanjannnn's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+<div align="center">
+  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Debanjannnn&custom_title=Debanjannnn's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debanjannnn&custom_title=Debanjannnn's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Debanjannnn's GitHub Activity Graph">
+  </a>
+</div>
