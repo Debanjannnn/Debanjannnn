@@ -55,14 +55,10 @@
 
 ## 📫 Connect with Me
 
-<p >
+
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjanmondal2005/)
-<br>
 [![X](https://img.shields.io/badge/X-%23000000.svg?&logoColor=white)](https://twitter.com/Debanjann15k)
-<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debanjanmondalk2005@gmail.com)
-<br>
-</p>
 
 ## 📊 GitHub Stats
 
