@@ -10,7 +10,7 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGbZhA9OnCk3A/profile-displaybackgroundimage-shrink_350_1400/0/1693078949150?e=1723075200&v=beta&t=j1faTeiNJVE9AkozOeHWYacAFk6-yLe6ZfBGgRSKt7w" width="280" alt="coding">
+  <img src="https://media.licdn.com/dms/image/D5616AQGbZhA9OnCk3A/profile-displaybackgroundimage-shrink_350_1400/0/1693078949150?e=1723075200&v=beta&t=j1faTeiNJVE9AkozOeHWYacAFk6-yLe6ZfBGgRSKt7w" height="280" alt="coding">
 </p>
 
 ## 📚 About Me
@@ -56,7 +56,7 @@
 
 -[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjanmondal2005/)
 -[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Debanjann15k)
-- [![Gmail Badge](https://img.shields.io/badge/white?style=for-the-badge&logo=Gmail&link=mailto:debanjanmondalk2005@gmail.com)](mailto:debanjanmondalk2005@gmail.com)
+-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debanjanmondalk2005@gmail.com)
 
 
 ## 📊 GitHub Stats
