@@ -10,13 +10,13 @@
 
 <!-- Profile Image -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGbZhA9OnCk3A/profile-displaybackgroundimage-shrink_350_1400/0/1693078949150?e=1723075200&v=beta&t=j1faTeiNJVE9AkozOeHWYacAFk6-yLe6ZfBGgRSKt7w" height="280" alt="coding">
+  <img src="https://media.licdn.com/dms/image/D5616AQGbZhA9OnCk3A/profile-displaybackgroundimage-shrink_350_1400/0/1693078949150?e=1723075200&v=beta&t=j1faTeiNJVE9AkozOeHWYacAFk6-yLe6ZfBGgRSKt7w" height="240" alt="coding">
 </p>
 
 ## 📚 About Me
 
 - 🎓 B.Tech 1st year majoring in **CSE**
-- 💻 Currently working on **DevOps**
+- 💻 Currently working on **MERN**
 - 🤝 Open for Collaborations
 - 📧 Reach me at: [debanjanmondalk2005@gmail.com](mailto:debanjanmondalk2005@gmail.com)
 - 😄 Interests: Music, Games, and Movies
