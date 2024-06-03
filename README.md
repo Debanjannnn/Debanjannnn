@@ -3,10 +3,10 @@
   <img src="https://media.licdn.com/dms/image/D5616AQGbZhA9OnCk3A/profile-displaybackgroundimage-shrink_350_1400/0/1693078949150?e=1723075200&v=beta&t=j1faTeiNJVE9AkozOeHWYacAFk6-yLe6ZfBGgRSKt7w" height="210" alt="coding">
 </p>
 <!-- Header -->
-<h1 align="center">👋 Hello, I'm Debanjan Mondal!</h1>
+<h1 align="center" style="color: #FFFFFF;">👋 Hello, I'm Debanjan Mondal!</h1>
 
 <!-- Introduction -->
-<p align="center">
+<p align="center" style="color: #FFFFFF;">
   <strong>Open Source Contributor | MERN Stack Developer</strong>
 </p>
 
@@ -15,51 +15,53 @@
 
 ## 📚 About Me
 
-- 🎓 B.Tech 1st year majoring in **CSE**
-- 💻 Currently working on **MERN**
-- 🤝 Open for Collaborations
-- 📧 Reach me at: [debanjanmondalk2005@gmail.com](mailto:debanjanmondalk2005@gmail.com)
+<p style="color: #FFFFFF;">
+- 🎓 B.Tech 1st year majoring in **CSE**<br>
+- 💻 Currently working on **MERN**<br>
+- 🤝 Open for Collaborations<br>
+- 📧 Reach me at: <a href="mailto:debanjanmondalk2005@gmail.com" style="color: #7F3FBF;">debanjanmondalk2005@gmail.com</a><br>
 - 😄 Interests: Music, Games, and Movies
+</p>
 
 ## 🌟 Technologies & Tools
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7F3FBF?logo=javascript&logoColor=FFFFFF)
+![C++](https://img.shields.io/badge/C++-7F3FBF?logo=c%2B%2B&logoColor=FFFFFF)
+![C](https://img.shields.io/badge/C-7F3FBF?logo=c&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-7F3FBF?logo=typescript&logoColor=FFFFFF)
+![HTML](https://img.shields.io/badge/HTML-7F3FBF?logo=html5&logoColor=FFFFFF)
+![CSS](https://img.shields.io/badge/CSS-7F3FBF?logo=css3&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/Go-7F3FBF?logo=go&logoColor=FFFFFF)
+![Express.js](https://img.shields.io/badge/Express.js-7F3FBF?logo=express&logoColor=FFFFFF)
+![NodeJS](https://img.shields.io/badge/Node.js-7F3FBF?logo=node.js&logoColor=FFFFFF)
 
 ### Frameworks & Libraries
-![Express.js](https://img.shields.io/badge/Express.js-white?style=for-the-badge&logo=express&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-7F3FBF?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-7F3FBF?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-7F3FBF?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![MUI](https://img.shields.io/badge/MUI-7F3FBF?style=for-the-badge&logo=mui&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7F3FBF?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+![Redux](https://img.shields.io/badge/Redux-7F3FBF?style=for-the-badge&logo=redux&logoColor=FFFFFF)
+![Styled Components](https://img.shields.io/badge/styled--components-7F3FBF?style=for-the-badge&logo=styled-components&logoColor=FFFFFF)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-7F3FBF?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-7F3FBF?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-E95420?style=for-the-badge&logo=Postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-7F3FBF?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-7F3FBF?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-7F3FBF?style=for-the-badge&logo=visual%20studio%20code&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-7F3FBF?style=for-the-badge&logo=Postman&logoColor=FFFFFF)
 
 
 ## 📫 Connect with Me
 
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debanjanmondal2005/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?&logoColor=white)](https://twitter.com/Debanjann15k)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:debanjanmondalk2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-7F3FBF?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/debanjanmondal2005/)
+[![X](https://img.shields.io/badge/X-7F3FBF?&logoColor=FFFFFF)](https://twitter.com/Debanjann15k)
+[![Gmail](https://img.shields.io/badge/Gmail-7F3FBF?logo=gmail&logoColor=FFFFFF)](mailto:debanjanmondalk2005@gmail.com)
 
 ## 📊 GitHub Stats
 
