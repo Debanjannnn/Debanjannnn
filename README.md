@@ -1,7 +1,9 @@
 <!-- <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.angularminds.com%2Fblog%2Farticle%2Ftop-web-development-stack-for-developers.html&psig=AOvVaw2hHhLlOInaYreFo0hLtj5j&ust=1668086174941000&source=images&cd=vfe&ved=0CA0QjRxqGAoTCLiw7riXofsCFQAAAAAdAAAAABCkAw"> -->
+<div style="background-color: #0D1117; padding: 20px; border-radius: 10px;">
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D5616AQGbZhA9OnCk3A/profile-displaybackgroundimage-shrink_350_1400/0/1693078949150?e=1723075200&v=beta&t=j1faTeiNJVE9AkozOeHWYacAFk6-yLe6ZfBGgRSKt7w" height="210" alt="coding">
 </p>
+
 <!-- Header -->
 <h1 align="center" style="color: #FFFFFF;">👋 Hello, I'm Debanjan Mondal!</h1>
 
@@ -12,14 +14,13 @@
 
 <!-- Profile Image -->
 
-
 ## 📚 About Me
 
-<p style="color: #FFFFFF;">
+<p style="color: #7F3FBF;">
 - 🎓 B.Tech 1st year majoring in **CSE**<br>
 - 💻 Currently working on **MERN**<br>
 - 🤝 Open for Collaborations<br>
-- 📧 Reach me at: <a href="mailto:debanjanmondalk2005@gmail.com" style="color: #7F3FBF;">debanjanmondalk2005@gmail.com</a><br>
+- 📧 Reach me at: <a href="mailto:debanjanmondalk2005@gmail.com" style="color: #FFFFFF;">debanjanmondalk2005@gmail.com</a><br>
 - 😄 Interests: Music, Games, and Movies
 </p>
 
@@ -58,7 +59,6 @@
 
 ## 📫 Connect with Me
 
-
 [![LinkedIn](https://img.shields.io/badge/Linkedin-7F3FBF?logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/debanjanmondal2005/)
 [![X](https://img.shields.io/badge/X-7F3FBF?&logoColor=FFFFFF)](https://twitter.com/Debanjann15k)
 [![Gmail](https://img.shields.io/badge/Gmail-7F3FBF?logo=gmail&logoColor=FFFFFF)](mailto:debanjanmondalk2005@gmail.com)
@@ -75,4 +75,5 @@
   <a href="https://github-readme-activity-graph.vercel.app/graph?username=Debanjannnn&custom_title=Debanjannnn's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Debanjannnn&custom_title=Debanjannnn's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="Debanjannnn's GitHub Activity Graph">
   </a>
+</div>
 </div>
