@@ -7,7 +7,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  <strong>Open Source Contributer | MERN Stack Developer</strong>
+  <strong>Open Source Contributor | MERN Stack Developer</strong>
 </p>
 
 <!-- Profile Image -->
