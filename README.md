@@ -1,6 +1,7 @@
 <!-- <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.angularminds.com%2Fblog%2Farticle%2Ftop-web-development-stack-for-developers.html&psig=AOvVaw2hHhLlOInaYreFo0hLtj5j&ust=1668086174941000&source=images&cd=vfe&ved=0CA0QjRxqGAoTCLiw7riXofsCFQAAAAAdAAAAABCkAw"> -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGbZhA9OnCk3A/profile-displaybackgroundimage-shrink_350_1400/0/1693078949150?e=1723075200&v=beta&t=j1faTeiNJVE9AkozOeHWYacAFk6-yLe6ZfBGgRSKt7w" height="210" alt="coding">
+  <img src="![image](https://github.com/user-attachments/assets/76d1d1ed-1de0-4dd9-9677-e5bbeba3a811)
+" height="210" alt="coding">
 </p>
 <!-- Header -->
 <h1 align="center">👋 Hello, I'm Debanjan Mondal!</h1>
